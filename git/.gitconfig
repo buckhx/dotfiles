@@ -1,0 +1,5 @@
+[user]
+	email = buckhx@gmail.com
+
+[alias]
+	desc = describe --always --tags --dirty 
