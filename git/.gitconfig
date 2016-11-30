@@ -3,3 +3,4 @@
 
 [alias]
 	desc = describe --always --tags --dirty 
+	vls = tag -n --sort=-refname
