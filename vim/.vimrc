@@ -3,6 +3,7 @@ filetype plugin on
 syntax on
 
 set nu rnu
+hi Search cterm=NONE ctermfg=white ctermbg=blue
 let mapleader="\\"
 
 call plug#begin('~/.vim/plugged')
